@@ -1,6 +1,6 @@
 
 # XingguangDeng-SCUDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
 
-Visit **[xingguangdeng-scu.github.io/xgdeng-SCU](https://xingguangdeng-scu.github.io/xgdeng-SCU)** 🚀
+Visit **[xgdeng-scu.github.io/xgdeng-SCU](https://xgdeng-scu.github.io/xgdeng-SCU)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
